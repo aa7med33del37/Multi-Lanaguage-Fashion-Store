@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'Product'           => 'المنتج',
+    'Products'          => 'المنتجات',
+    'Add New Product'   => 'اضافة منتج جديد',
+    'Edit Product'      => 'تعديل المنتج',
+    'Title en'          => 'العنوان (الإنجليزية)',
+    'Title ar'          => 'العنوان (عربي)',
+    'Title'             => 'العنوان',
+    'Category'          => 'فئة',
+    'Select Category'   => 'اختر الفئة',
+    'Brand'             => 'ماركة',
+    'Select Brand'      => 'اختر الماركة',
+    'Original Price'    => 'السعر الأصلي',
+    'Selling Price'     => 'سعر البيع',
+    'Price'             => 'السعر',
+    'Quantity'          => 'الكمية',
+    'Small Desc en'     => 'وصف صغير (إنجليزي)',
+    'Long Desc en'      => 'وصف طويل (إنجليزي)',
+    'Small Desc ar'     => 'وصف صغير (عربي)',
+    'Long Desc ar'      => 'وصف طويل (عربي)',
+    'Is trending'       => 'شائع ؟',
+    'Is Featured'       => 'متميزة ؟',
+    'Upload More'       => 'يمكنك تحميل أكثر من صورة إذا أردت',
+    'Select Color'      => 'إختر لون',
+    'No Products Found' => 'لا توجد منتجات',
+];

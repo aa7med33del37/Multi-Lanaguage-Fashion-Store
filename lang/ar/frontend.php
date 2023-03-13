@@ -1,0 +1,56 @@
+<?php
+
+return [
+    'signin_signup'       => 'الدخول / التسجيل',
+    'Porfile'             => 'الصفحة الشخصية',
+    'Logout'              => 'تسجيل الخروج',
+    'Update Profile'      => 'تحديث الملف الشخصي',
+    'Update Password'     => 'تحديث كلمة المرور',
+    'Orders'              => 'الطلبيات',
+    'Order'               => 'الطلب',
+    'Cart'                => 'حقيبة التسوق',
+    'Wishlist'            => 'المنتجات المفضلة',
+    'Browse Categories'   => 'تصفح الفئات',
+    'Home'                => 'الرئيسيه',
+    'Shop'                => 'تسوق',
+    'Shop Now'            => 'تسوق الآن',
+    'Trending'            => 'الرائج الآن',
+    'Featured'            => 'متميز',
+    'Latest Products'     => 'جديدنا من الأزياء المميزة',
+    'Our Collections'     => 'مجموعاتنا',
+    'All'                 => 'الكل',
+    'About us'            => 'عن الموقع',
+    'Useful Links'        => 'روابط مفيدة',
+    'My Account'          => 'حسابي',
+    'Price'               => 'السعر',
+    'High To Low'         => 'الاعلي سعر الي الاقل سعر',
+    'Low To High'         => 'الاقل سعر الي الاعلي سعر',
+
+    'In Stock'            => 'متوفر',
+    'Out Of Stock'        => 'غير متاح في الوقت الحالي',
+    'Add To Cart'         => 'اضف الي حقيبة التسوق',
+    'Add To Wishlist'     => 'اضف الي المنتجات المفضله',
+
+    'Reviews'             => 'المراجعات',
+    'Description'         => 'الوصف',
+    'Write Review'        => 'انطباعك عن المنتج',
+    'Write Description'   => 'ملاحظاتك عن المنتج',
+
+    'Brand'               => 'الماركة',
+    'Showing'             => 'عرض',
+    'Sort By'             => 'تصنيف حسب',
+    'Latest'              => 'احدث',
+    'Older'               => 'اقدم',
+    'Select'              => 'اختر ...',
+    'You May Also Like'   => 'ربما يعجبك أيضا',
+
+    'Cart Total'          => 'ملخص الطلب',
+    'Proceed to checkout' => 'اتمام الشراء الآن',
+    'Continue Shopping'   => 'الاستمرار في التسوق',
+    'View Cart'           => 'اذهب الي الحقيبة',
+
+    'Billing Details'     => 'تفاصيل الفاتورة',
+    'Notes'               => 'ملاحظات',
+
+    'Useful Links'        => 'روابط مهمه',
+];
